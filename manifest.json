@@ -2,13 +2,13 @@
   "name": "O Impostor",
   "short_name": "Impostor",
   "description": "Jogo de dedução e investigação.",
-  "start_url": "/",
+  "start_url": "/O-Impostor/",
   "display": "standalone",
   "background_color": "#0a0a0c",
   "theme_color": "#0a0a0c",
   "icons": [
     {
-      "src": "/icone.png",
+      "src": "icone.png",
       "sizes": "192x192 512x512",
       "type": "image/png",
       "purpose": "any maskable"
